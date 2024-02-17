@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2400.68,-2444.62)">
+        <g id="gasgiant_waves_2" transform="matrix(2.49977,0,0,1,-1349.38,132.141)">
+            <rect x="1500.16" y="2312.48" width="100.009" height="100.009" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1500.16" y="2312.48" width="100.009" height="100.009"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.28056,0,0,1,-852.145,-12.9899)">
+                    <path d="M1836.94,2340.8C1846.17,2341.11 1849.37,2343.91 1862.52,2341.32C1880.48,2337.76 1894.71,2340.57 1915.04,2340.8" style="fill:none;stroke:white;stroke-width:6.93px;"/>
+                </g>
+                <g transform="matrix(1.28056,0,0,1,-852.145,10.7445)">
+                    <path d="M1836.94,2340.8C1846.73,2341.11 1849.37,2343.91 1862.52,2341.32C1880.48,2337.76 1892.92,2341.48 1915.04,2340.8" style="fill:none;stroke:white;stroke-width:9.5px;"/>
+                </g>
+                <g transform="matrix(1.28056,0,0,1,-852.145,54.6015)">
+                    <path d="M1836.94,2340.8C1847.11,2340.81 1849.37,2343.91 1862.52,2341.32C1880.48,2337.76 1893.67,2341.18 1915.04,2340.8" style="fill:none;stroke:white;stroke-width:5.46px;"/>
+                </g>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

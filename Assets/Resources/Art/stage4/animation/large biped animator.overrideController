@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: large biped animator
+  m_Controller: {fileID: 9100000, guid: 4e38f55822044d842bd3bbb761012204, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 959a1955eb3690c43a60bef928a994c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 10573a9773ed14347a32f8ef5f5bf8b7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23a074025448617488bcc84a544810f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8e7cb75097bee57469f7445f5daa2cc6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72a11f90150ae6c4991d100e39d2a0ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 734bcd10bf99fa34f8d690b6ceca316d, type: 2}

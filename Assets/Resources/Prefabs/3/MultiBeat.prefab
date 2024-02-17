@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5673629102730254599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5669831934991428761}
+  - component: {fileID: 5646559837833784346}
+  - component: {fileID: 3944182628346492246}
+  - component: {fileID: 2436411081628354535}
+  m_Layer: 0
+  m_Name: MultiBeat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5669831934991428761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5673629102730254599}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2, y: -0.33614433, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5646559837833784346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5673629102730254599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbde588dd158ab449e00728ad588781, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifeTimePerCell: 0
+  animateInTime: 1
+  animateOutTime: 0.65
+  unlocked: 1
+  points: []
+  color: {r: 0, g: 0, b: 0, a: 0}
+  isClone: 0
+  spline: {fileID: 3944182628346492246}
+  splineDecorator: {fileID: 2436411081628354535}
+  cellIcePrefab: {fileID: 1090622855416040584, guid: 603e322e256a51a409d8c908fb17963a,
+    type: 3}
+--- !u!114 &3944182628346492246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5673629102730254599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2fd8eae2753a764d8df488c08f25614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  points:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0.66727513, y: -0.100607924, z: 0}
+  - {x: 0.8203959, y: -0.84895295, z: 0}
+  - {x: 0.24814263, y: -1.3039846, z: 0}
+  modes: 0000000000000000
+  loop: 0
+--- !u!114 &2436411081628354535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5673629102730254599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832a2523aec583e409d82453d5656d9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  initOnAwake: 0
+  spline: {fileID: 3944182628346492246}
+  frequency: 2
+  lookForward: 1
+  items:
+  - {fileID: 2666079204353256803, guid: a437ca33b69d00f49b63b2661482ef78, type: 3}
+  addWalker: 0
+  mode: 0
+  scaleMargin: 0.1
+  scaleInOut: 0
+  positioningStrat: 1
+  itemSize: 0.8
+  objectPool: {fileID: 0}

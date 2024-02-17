@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-124,0)">
+        <g id="square_outline" transform="matrix(1,0,0,1,124.81,0.5111)">
+            <rect x="0" y="0" width="100" height="100" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="100" height="100"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="square-outline" serif:id="square outline">
+                    <g transform="matrix(-1,0,-0,1,100.001,-0.001)">
+                        <rect x="6.821" y="6.821" width="86.359" height="86.359" style="fill:none;stroke:black;stroke-width:6px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0,-0.001)">
+                        <path d="M93.18,6.821L6.821,6.821L6.821,93.18L93.18,93.18L93.18,6.821ZM90.18,90.181L9.821,90.181L9.821,9.822L90.18,9.822L90.18,90.181Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

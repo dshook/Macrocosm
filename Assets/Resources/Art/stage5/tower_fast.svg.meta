@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: c65ffffc78b6c2b409c0827a3ad6e5df
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 1
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 100
+  gradientResolution: 128
+  alignment: 9
+  customPivot: {x: 0.296, y: 0.5044582}
+  generatePhysicsShape: 0
+  viewportOptions: 1
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 4
+  targetResolution: 240
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 128
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 1
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  useSVGPixelsPerUnit: 0
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: tower_fast
+      originalName: 
+      pivot: {x: 0.296, y: 0.5044582}
+      alignment: 9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      spriteID: 151cad87f44e33a48a59ebeb3b70d3e2
+      internalID: 0
+    PhysicsOutlines: []

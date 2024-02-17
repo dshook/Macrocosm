@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 43 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-122,-99)">
+        <g id="Background---Rear-Upper-Leg" serif:id="Background - Rear Upper Leg">
+            <g transform="matrix(1,0,0,1,131.354,104.735)">
+                <path d="M0,46.765C-3.341,43.229 -7.538,38.286 -8.339,23.807C-9.175,8.699 -1.522,-5.071 12.445,-5.071C26.412,-5.071 33.432,7.346 33.432,19.317C33.432,37.729 27.16,45.879 25.883,47.555C24.606,49.231 21.726,51.836 13.745,51.836C5.764,51.836 2.099,48.987 0,46.765" style="fill:rgb(131,139,197);fill-rule:nonzero;"/>
+            </g>
+            <g opacity="0.5">
+                <g transform="matrix(1,0,0,1,131.354,104.735)">
+                    <path d="M0,46.765C-3.341,43.229 -7.538,38.286 -8.339,23.807C-9.175,8.699 -1.522,-5.071 12.445,-5.071C26.412,-5.071 33.432,7.346 33.432,19.317C33.432,37.729 27.16,45.879 25.883,47.555C24.606,49.231 21.726,51.836 13.745,51.836C5.764,51.836 2.099,48.987 0,46.765" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8664072039140200176
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3608541629616225824, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3618453924585039652, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3622083892906211222, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_Name
+      value: tower_piercing
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625243368732488154, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3625343480794721964, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.201
+      objectReference: {fileID: 0}
+    - target: {fileID: 3735293313988620354, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: shootingAmmo
+      value: 
+      objectReference: {fileID: 7984235944161241350, guid: 6d615f382bc1fdf4a9787c4e2ba4e70a,
+        type: 3}
+    - target: {fileID: 3736070630453741456, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: _vectorGraphics
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736070630453741456, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: _lastTimeModified
+      value: 636827618553799352
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206831087507738110, guid: 93ce5d4c7caad7a428b169a556f4fe58,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3286163911610860551, guid: 535617bdc98af1d418287f60d2718335,
+        type: 3}
+    m_RemovedComponents:
+    - {fileID: 3736070630453741456, guid: 93ce5d4c7caad7a428b169a556f4fe58, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 93ce5d4c7caad7a428b169a556f4fe58, type: 3}

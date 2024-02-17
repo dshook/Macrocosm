@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4938467268221753429
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6398368150376965229}
+  - component: {fileID: 3765938262587749030}
+  m_Layer: 5
+  m_Name: TestSong
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6398368150376965229
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4938467268221753429}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &3765938262587749030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4938467268221753429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e5c2ea034a188459803d2b6a455627, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicClip: {fileID: 8300000, guid: 135cf5bd2087e104a9d10aef2c73fafb, type: 3}
+  bpm: 50
+  templates:
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}
+  - {fileID: 8242984020333576027, guid: 8fa9a87fddf7142419400c2d6fba76e3, type: 3}
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}
+  - {fileID: 8242984020333576027, guid: 8fa9a87fddf7142419400c2d6fba76e3, type: 3}
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}
+  - {fileID: 7702257587857214335, guid: 84c6e8838cb0c614881168572a05f686, type: 3}

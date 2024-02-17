@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Eatable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bg 3
+    uniqueID: 2500057293
+    locked: 0
+  - name: Bg 2
+    uniqueID: 1740652905
+    locked: 0
+  - name: Bg 1
+    uniqueID: 1062920873
+    locked: 0
+  - name: Bg
+    uniqueID: 1035270611
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 2235213353
+    locked: 0
+  - name: Layer2
+    uniqueID: 975687781
+    locked: 0
+  - name: Layer3
+    uniqueID: 1924336037
+    locked: 0
+  - name: Layer4
+    uniqueID: 284054235
+    locked: 0
+  - name: Layer5
+    uniqueID: 4198196873
+    locked: 0
+  - name: Layer6
+    uniqueID: 664299683
+    locked: 0
+  - name: Layer7
+    uniqueID: 3727113617
+    locked: 0
+  - name: Layer8
+    uniqueID: 1046971631
+    locked: 0
+  - name: Layer9
+    uniqueID: 2762293049
+    locked: 0
+  - name: Layer10
+    uniqueID: 2686120733
+    locked: 0
+  - name: Layer11
+    uniqueID: 2653222347
+    locked: 0
+  - name: World Text
+    uniqueID: 174988669
+    locked: 0
+  - name: UI
+    uniqueID: 2683241293
+    locked: 0

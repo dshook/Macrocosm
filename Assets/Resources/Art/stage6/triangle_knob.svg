@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-498,-68)">
+        <g id="triangle_knob" transform="matrix(1.00074,0,0,0.996685,-0.422502,-0.454562)">
+            <rect x="498.053" y="68.682" width="99.926" height="100.333" style="fill:none;"/>
+            <g transform="matrix(0.999259,0,0,1.00333,0.422189,0.456073)">
+                <circle cx="548" cy="118" r="37.625" style="fill:rgb(255,131,13);"/>
+            </g>
+            <g transform="matrix(0.999259,0,0,1.00333,0.422189,0.456073)">
+                <circle cx="548" cy="118" r="26.341" style="fill:white;fill-opacity:0.5;"/>
+            </g>
+        </g>
+    </g>
+</svg>

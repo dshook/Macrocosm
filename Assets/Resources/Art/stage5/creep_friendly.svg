@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2512,-132)">
+        <g id="creep_friendly" transform="matrix(1,0,0,1,1718.6,-320.217)">
+            <rect x="793.954" y="453" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(1.4425,0,0,1.4425,-1236.26,-240.042)">
+                <path d="M1459.41,505.557C1459.41,495.991 1451.65,488.225 1442.08,488.225C1432.52,488.225 1424.75,495.991 1424.75,505.557L1424.75,528.083C1424.75,537.649 1432.52,545.415 1442.08,545.415C1451.65,545.415 1459.41,537.649 1459.41,528.083L1459.41,505.557Z" style="fill:white;stroke:black;stroke-width:2.77px;"/>
+            </g>
+            <g transform="matrix(0.876748,0,0,0.876748,110.76,60.428)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+            <g transform="matrix(0.876748,0,0,0.876748,132.489,60.428)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+        </g>
+    </g>
+</svg>

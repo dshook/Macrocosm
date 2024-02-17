@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1226.89,-143)">
+        <g id="circle_mask" transform="matrix(0.948096,0,0,0.948096,-2288.7,148.556)">
+            <rect x="3708.06" y="-5.86" width="105.475" height="105.475" style="fill-opacity:0;"/>
+            <clipPath id="_clip1">
+                <rect x="3708.06" y="-5.86" width="105.475" height="105.475"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.40012,0,0,1.40012,-1713.33,-20.8042)">
+                    <circle cx="3909.76" cy="48.339" r="37.666" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

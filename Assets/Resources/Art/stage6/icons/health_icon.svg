@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-496.248,-499)">
+        <g id="health_icon" transform="matrix(1,0,0,1,-3099.06,-6)">
+            <rect x="3595.3" y="505" width="100.045" height="100.045" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="3595.3" y="505" width="100.045" height="100.045"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.06431,0,0,1.06383,97.8096,237.979)">
+                    <circle cx="3333.17" cy="298" r="47" style="fill:url(#_Linear2);"/>
+                    <path d="M3333.17,251C3359.11,251 3380.17,272.06 3380.17,298C3380.17,323.94 3359.11,345 3333.17,345C3307.23,345 3286.17,323.94 3286.17,298C3286.17,272.06 3307.23,251 3333.17,251ZM3333.17,255.86C3356.43,255.86 3375.31,274.742 3375.31,298C3375.31,321.258 3356.43,340.14 3333.17,340.14C3309.91,340.14 3291.02,321.258 3291.02,298C3291.02,274.742 3309.91,255.86 3333.17,255.86Z"/>
+                </g>
+                <g transform="matrix(0.118971,0,0,0.118971,3614.87,524.566)">
+                    <path d="M196,16C179.542,16 166,29.542 166,46L166,166L46,166C29.542,166 16,179.542 16,196L16,316C16,332.458 29.542,346 46,346L166,346L166,466C166,482.458 179.542,496 196,496L316,496C332.458,496 346,482.458 346,466L346,346L466,346C482.458,346 496,332.458 496,316L496,196C496,179.542 482.458,166 466,166L346,166L346,46C346,29.542 332.458,16 316,16L196,16Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(94,0,0,94,3286.17,298)"><stop offset="0" style="stop-color:rgb(255,45,77);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(214,73,43);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

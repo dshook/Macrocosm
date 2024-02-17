@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1500,-2439.94)">
+        <g id="gasgiant_swoops_2" transform="matrix(2.49977,0,0,1,-2250.06,127.467)">
+            <rect x="1500.16" y="2312.48" width="100.009" height="100.009" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1500.16" y="2312.48" width="100.009" height="100.009"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.17899,0,0,0.447434,1600.17,2369.57)">
+                    <path d="M0,-39.79C-93.254,-42.904 -106.634,-45.063 -235.838,-78.097C-279.628,-89.293 -342.131,-76.356 -386.459,-43.893C-424.957,-15.701 -489.883,-30.515 -510.522,-34.483C-534.41,-39.077 -558.742,-39.79 -558.742,-39.79L-558.742,34.977C-558.742,34.977 -502.705,47.542 -424.821,28.625C-344.64,9.149 -336.977,-37.537 -271.973,-37.129C-203.88,-36.702 -93.885,34.977 0,34.977" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

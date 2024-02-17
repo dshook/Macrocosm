@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1807.45,-2441.19)">
+        <g id="gasgiant_clouds_2" transform="matrix(2.49977,0,0,1,-1942.61,128.714)">
+            <rect x="1500.16" y="2312.48" width="100.009" height="100.009" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1500.16" y="2312.48" width="100.009" height="100.009"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.400037,0,0,1,765.144,21.6794)">
+                    <path d="M1853,2340.8L1949.83,2340.8" style="fill:none;stroke:white;stroke-width:12.95px;"/>
+                </g>
+                <g transform="matrix(0.400037,0,0,1,772.145,32.3845)">
+                    <path d="M1853,2340.8L1888.03,2340.8" style="fill:none;stroke:rgb(224,224,224);stroke-width:18.18px;"/>
+                    <path d="M1853,2340.8L1888.03,2340.8" style="fill:none;stroke:white;stroke-width:12.95px;stroke-miterlimit:2;"/>
+                </g>
+                <g transform="matrix(1.44562,0,0,1,-1159.91,50.8405)">
+                    <path d="M1836.94,2340.8L1915.04,2340.8" style="fill:none;stroke:white;stroke-width:5.87px;"/>
+                </g>
+                <g transform="matrix(0.341465,0,0,1,942.717,-13.8765)">
+                    <path d="M1828.11,2340.8L1915.04,2340.8" style="fill:none;stroke:white;stroke-width:13.93px;"/>
+                </g>
+                <g transform="matrix(0.341465,0,0,1,933.374,5.83057)">
+                    <path d="M1828.11,2340.8L1915.04,2340.8" style="fill:none;stroke:white;stroke-width:13.93px;"/>
+                </g>
+                <g transform="matrix(0.537845,0,0,1.34449,778.611,-633.551)">
+                    <path d="M1383.89,2205.84C1384.4,2205.84 1384.88,2206.04 1385.24,2206.4C1385.6,2206.76 1385.8,2207.24 1385.8,2207.75C1385.8,2208.17 1385.8,2208.62 1385.8,2209.04C1385.8,2209.55 1385.6,2210.03 1385.24,2210.39C1384.88,2210.75 1384.4,2210.95 1383.89,2210.95C1382.6,2210.95 1381.14,2210.95 1381.14,2210.95C1379.29,2210.95 1377.78,2212.45 1377.78,2214.3C1377.78,2216.16 1379.29,2217.66 1381.14,2217.66L1408.93,2217.66C1410.78,2217.66 1412.29,2216.16 1412.29,2214.3C1412.29,2212.45 1410.78,2210.95 1408.93,2210.95L1394.41,2210.95C1393.91,2210.95 1393.42,2210.75 1393.07,2210.39C1392.71,2210.03 1392.51,2209.55 1392.51,2209.04C1392.51,2208.62 1392.51,2208.17 1392.51,2207.75C1392.51,2207.24 1392.71,2206.76 1393.07,2206.4C1393.42,2206.04 1393.91,2205.84 1394.41,2205.84C1395.86,2205.84 1397.6,2205.84 1397.6,2205.84C1399.45,2205.84 1400.95,2204.34 1400.95,2202.49C1400.95,2200.64 1399.45,2199.13 1397.6,2199.13L1373.8,2199.13C1371.95,2199.13 1370.44,2200.64 1370.44,2202.49C1370.44,2204.34 1371.95,2205.84 1373.8,2205.84L1383.89,2205.84Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

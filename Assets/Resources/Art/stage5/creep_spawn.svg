@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2120,-132)">
+        <g id="creep_spawn" transform="matrix(1,0,0,1,1090.07,-320.029)">
+            <rect x="1030.3" y="453" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,0.298443,0)">
+                <path d="M1058.95,503.574C1054.66,498.754 1052.06,492.404 1052.06,485.451C1052.06,470.391 1064.28,458.165 1079.34,458.165C1094.4,458.165 1106.63,470.391 1106.63,485.451C1106.63,492.404 1104.02,498.754 1099.73,503.574C1104.02,508.395 1106.63,514.745 1106.63,521.698C1106.63,536.758 1094.4,548.984 1079.34,548.984C1064.28,548.984 1052.06,536.758 1052.06,521.698C1052.06,514.745 1054.66,508.395 1058.95,503.574Z" style="fill:white;stroke:black;stroke-width:4px;"/>
+            </g>
+            <g transform="matrix(0.727633,0,0,0.727633,471.783,119.514)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+            <g transform="matrix(0.727633,0,0,0.727633,489.816,119.514)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+        </g>
+    </g>
+</svg>

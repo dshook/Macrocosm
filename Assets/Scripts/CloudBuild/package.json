@@ -1,0 +1,9 @@
+{
+  "name": "CloudBuild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^8.5.1"
+  }
+}

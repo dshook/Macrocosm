@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf41e2b6425f04bb8a16ad1b07d4dd, type: 3}
+  m_Name: Slowing
+  m_EditorClassIdentifier: 
+  type: 3
+  towerName: Slowing
+  descrip: Slows enemies by 50%
+  sprite: {fileID: 3286163911610860551, guid: f3e0a6c042b6b4449be5a6bd1ab25522, type: 3}
+  attacksFlying: 1
+  attacksLand: 1
+  moneyCost: 190000002d00000041000000
+  woodCost: 
+  oreCost: 020000000400000008000000
+  populationCost: 000000000100000001000000
+  damage: 000000000000000000000000
+  speed:
+  - 3
+  - 4
+  - 5
+  radius:
+  - 0.8
+  - 0.9
+  - 1
+  shotSpeed:
+  - 5
+  - 6
+  - 7

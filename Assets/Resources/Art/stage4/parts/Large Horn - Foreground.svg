@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 20 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-521,-496)">
+        <g id="Large-Horn---Foreground" serif:id="Large Horn - Foreground">
+            <g transform="matrix(-0.955261,-0.295763,-0.295763,0.955261,517.067,530.954)">
+                <path d="M-11.769,-39.464C-11.769,-39.464 -0.882,-34.755 -0.812,-19.82C-0.761,-9.066 -5.105,-2.609 -11.769,-2.228C-17.799,-1.882 -22.89,-9.524 -19.286,-15.685C-15.683,-21.847 -8.32,-23.457 -11.769,-39.464" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <clipPath id="_clip1">
+                    <path d="M523.706,512.262C520.475,522.518 522.715,529.971 528.97,532.306C534.626,534.42 541.75,528.626 540.13,521.675C538.51,514.723 531.953,511.008 539.982,496.736C539.982,496.736 528.189,498.015 523.706,512.262Z" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g opacity="0.3">
+                        <g transform="matrix(-0.575854,0.817553,0.817553,0.575854,544.204,525.458)">
+                            <path d="M2.309,-24.586C2.309,-24.586 11.56,-17.548 9.182,-11.077C6.805,-4.607 3.21,-2.817 2.309,-2.716C1.408,-2.615 13.378,0.313 15.729,-8.672C18.08,-17.657 6.964,-23.146 2.309,-24.586" style="fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: large tall quadraped animator
+  m_Controller: {fileID: 9100000, guid: 4e38f55822044d842bd3bbb761012204, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 959a1955eb3690c43a60bef928a994c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fe7d20dc9ffce8b47b357203d564613c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23a074025448617488bcc84a544810f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d6dc68674daccb408801e24b5e8c3dd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72a11f90150ae6c4991d100e39d2a0ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be853909cfb22c7499b586acd43fa493, type: 2}

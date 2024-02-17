@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-331,-506)">
+        <g id="Medium-Horn---Background" serif:id="Medium Horn - Background">
+            <g transform="matrix(-0.865646,-0.500657,-0.500657,0.865646,324.896,527.282)">
+                <path d="M-11.693,-30.639C-11.693,-30.639 -2.933,-26.849 -2.876,-14.831C-2.834,-6.178 -6.33,-0.983 -11.693,-0.676C-16.543,-0.398 -20.64,-6.546 -17.741,-11.504C-14.841,-16.463 -8.917,-17.757 -11.693,-30.639" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g opacity="0.3">
+                <g transform="matrix(-0.865646,-0.500657,-0.500657,0.865646,324.896,527.282)">
+                    <path d="M-11.693,-30.639C-11.693,-30.639 -2.933,-26.849 -2.876,-14.831C-2.834,-6.178 -6.33,-0.983 -11.693,-0.676C-16.543,-0.398 -20.64,-6.546 -17.741,-11.504C-14.841,-16.463 -8.917,-17.757 -11.693,-30.639" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

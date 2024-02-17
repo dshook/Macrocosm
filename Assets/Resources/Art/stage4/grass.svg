@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1647,-129)">
+        <g id="grass" transform="matrix(1,0,0,1,1647.89,-323.333)">
+            <rect x="0" y="453.148" width="100.405" height="100.405" style="fill:none;"/>
+            <g transform="matrix(0.824721,0,0,0.725962,10.3986,143.02)">
+                <ellipse cx="51.996" cy="527.867" rx="37.924" ry="15.445" style="fill-opacity:0.16;"/>
+            </g>
+            <g transform="matrix(0.721925,-0.880261,0.659421,0.540809,-337.13,292.169)">
+                <path d="M42.06,498.574L103.849,500.847C109.812,500.847 114.653,507.31 114.653,515.27C114.653,523.231 109.812,529.693 103.849,529.693L59.782,527.421L42.06,498.574Z" style="fill:rgb(242,242,242);"/>
+            </g>
+        </g>
+    </g>
+</svg>

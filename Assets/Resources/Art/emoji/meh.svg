@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-440,-521)">
+        <g id="meh" transform="matrix(1,0,0,1,-0.765537,0)">
+            <rect x="440.766" y="521" width="100.045" height="100.045" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="440.766" y="521" width="100.045" height="100.045"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,252.343,0)">
+                    <circle cx="238.445" cy="571.023" r="50.023" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.271861,0,0,0.271861,440.766,521)">
+                    <path d="M184,0C82.544,0 0,82.544 0,184C0,285.456 82.544,368 184,368C285.456,368 368,285.456 368,184C368,82.544 285.456,0 184,0ZM184,352C91.36,352 16,276.64 16,184C16,91.36 91.36,16 184,16C276.64,16 352,91.36 352,184C352,276.64 276.64,352 184,352Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.271861,0,0,0.271861,440.766,521)">
+                    <path d="M120,176C133.232,176 144,165.232 144,152C144,138.768 133.232,128 120,128C106.768,128 96,138.768 96,152C96,165.232 106.768,176 120,176ZM120,144C124.408,144 128,147.592 128,152C128,156.408 124.408,160 120,160C115.592,160 112,156.408 112,152C112,147.592 115.592,144 120,144Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.271861,0,0,0.271861,440.766,521)">
+                    <path d="M248,128C234.768,128 224,138.768 224,152C224,165.232 234.768,176 248,176C261.232,176 272,165.232 272,152C272,138.768 261.232,128 248,128ZM248,160C243.592,160 240,156.408 240,152C240,147.592 243.592,144 248,144C252.408,144 256,147.592 256,152C256,156.408 252.408,160 248,160Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.271861,0,0,0.271861,440.766,521)">
+                    <path d="M264,224L104,224C99.584,224 96,227.584 96,232C96,236.416 99.584,240 104,240L264,240C268.416,240 272,236.416 272,232C272,227.584 268.416,224 264,224Z" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa4ba89c173e3d4e9faf823f7bc27db, type: 3}
+  m_Name: Flying
+  m_EditorClassIdentifier: 
+  creepType: 5
+  hp: 3
+  hpPerWave: 2
+  speed: 0.65
+  popDamage: 0
+  money: 1
+  bossHpMultiplier: 15
+  bossSpeedMultiplier: 0.5
+  bossPopDamageMultiplier: 5
+  bossMoney: 50
+  perCreepDelay: 0.45
+  creepsPerSpawnPoint: 3
+  creepsPerWaveMultiplier: 0.5
+  color: {r: 0.23921569, g: 1, b: 0.6784314, a: 1}
+  music: {fileID: 8300000, guid: 78bc82bdb9a644b60be6483b2b9ebf5e, type: 3}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2254,-131)">
+        <g id="creep_flying" transform="matrix(1,0,0,1,1110.77,-321.937)">
+            <rect x="1143.68" y="453" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(0.90111,0,0,0.90111,103.53,50.0435)">
+                <path d="M1209.79,462.033L1234.83,543.296L1184.75,543.296L1209.79,462.033Z" style="fill:white;stroke:black;stroke-width:4.44px;"/>
+            </g>
+            <g transform="matrix(0.608996,0,0,0.608996,684.383,210.839)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+            <g transform="matrix(0.608996,0,0,0.608996,699.477,210.839)">
+                <circle cx="823.903" cy="489.435" r="5.526"/>
+            </g>
+        </g>
+    </g>
+</svg>

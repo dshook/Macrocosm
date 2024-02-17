@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf41e2b6425f04bb8a16ad1b07d4dd, type: 3}
+  m_Name: Cheap
+  m_EditorClassIdentifier: 
+  type: 1
+  towerName: Cheap
+  descrip: But good upgrade potential.
+  sprite: {fileID: 3286163911610860551, guid: 1cca9af8e7cea0d428c430b4ca2ea6bd, type: 3}
+  attacksFlying: 1
+  attacksLand: 1
+  moneyCost: 050000002800000064000000
+  woodCost: 000000000000000028000000
+  oreCost: 
+  populationCost: 000000000100000001000000
+  damage: 0f0000002d00000055000000
+  speed:
+  - 1.5
+  - 2
+  - 2.5
+  radius:
+  - 1
+  - 1.1
+  - 1.2
+  shotSpeed:
+  - 2.5
+  - 2.5
+  - 2.5

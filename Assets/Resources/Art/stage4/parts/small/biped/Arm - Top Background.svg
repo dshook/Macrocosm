@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 15 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-129,-99)">
+        <g id="Background---Upper-Arm" serif:id="Background - Upper Arm">
+            <g transform="matrix(1,0,0,1,132.657,104.076)">
+                <path d="M0,18.075C-1.408,14.352 -2.546,12.747 -2.912,6.072C-3.277,-0.604 -0.036,-3.951 3.633,-4.152C7.303,-4.353 10.585,-2.283 10.956,4.495C11.327,11.273 10.61,12.471 9.131,16.913C7.652,21.355 1.646,22.428 0,18.075" style="fill:rgb(146,217,0);fill-rule:nonzero;"/>
+            </g>
+            <g opacity="0.5">
+                <g transform="matrix(1,0,0,1,132.657,104.076)">
+                    <path d="M0,18.075C-1.408,14.352 -2.546,12.747 -2.912,6.072C-3.277,-0.604 -0.036,-3.951 3.633,-4.152C7.303,-4.353 10.585,-2.283 10.956,4.495C11.327,11.273 10.61,12.471 9.131,16.913C7.652,21.355 1.646,22.428 0,18.075" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

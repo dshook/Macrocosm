@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1923796676032046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4561075391124522}
+  - component: {fileID: 114715768899180778}
+  m_Layer: 0
+  m_Name: snake
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4561075391124522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923796676032046}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114715768899180778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923796676032046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3a8757da557f246b1a0b1383a94e1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerControlled: 1
+  aggressiveAI: 0
+  minDistance: 0.55
+  rotationSpeed: 3
+  maxTurnAngle: 55
+  speed: 1.6
+  positionIndexMult: 10
+  turnDampeningCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0020446777
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.82370454
+      value: 0.5635124
+      inSlope: -1.9735159
+      outSlope: -1.9735159
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.21138011
+    - serializedVersion: 3
+      time: 0.9989624
+      value: 0.077560425
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  startingObject: {fileID: 1335518237843560, guid: fe6622eb79e639646880caabc920e8c5,
+    type: 3}
+  headPointer: {fileID: 1002084303395914, guid: 3c0fd1111cf699340bb014f72c03c58d,
+    type: 3}
+  boostTrailPrefab: {fileID: 1199332307961698, guid: fe16aa7f102ff6b44b2af9b34e9a8195,
+    type: 3}
+  snakeLinkPrefab: {fileID: 6934713994723743328, guid: dcef6b3ad7ef4094e94f00dd4f8086b0,
+    type: 3}
+  playerJoystickControl: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: e26b191f708d76146a898d3e17894fda, type: 3}
+  eatSound:
+  - {fileID: 8300000, guid: eb2c85323993a6740857308b5c9ef6b6, type: 3}
+  - {fileID: 8300000, guid: c918e7f4fe2b8ac4b8ae22e98c555d2f, type: 3}
+  - {fileID: 8300000, guid: 4118e2f85b31b7444bb277db48e347c9, type: 3}
+  - {fileID: 8300000, guid: 7a0d9ef89d6f4f342853fd1bfe762621, type: 3}
+  - {fileID: 8300000, guid: e05a279125b6cbf43bff24285e24d290, type: 3}
+  - {fileID: 8300000, guid: 1b906391b957c6549bf7135fc0a556b2, type: 3}
+  - {fileID: 8300000, guid: d53ce92d0c5bbcc4684ba5ce6a9af0cd, type: 3}
+  - {fileID: 8300000, guid: 0948395fedac3ae449cf21ddf17de753, type: 3}
+  - {fileID: 8300000, guid: 5c58e8112588d864f9d1110afc8485ba, type: 3}
+  - {fileID: 8300000, guid: e97a43b3acb3c85419e3b5fa34a0cca8, type: 3}
+  - {fileID: 8300000, guid: ac63cecacd713334c80e69b05f4aeb2a, type: 3}
+  - {fileID: 8300000, guid: dbe722a78967eb645aaad971beb668a9, type: 3}
+  eatSequenceIndex: 0
+  objectRepositioner: {fileID: 0}

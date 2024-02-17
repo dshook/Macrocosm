@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf41e2b6425f04bb8a16ad1b07d4dd, type: 3}
+  m_Name: AOE
+  m_EditorClassIdentifier: 
+  type: 5
+  towerName: Area of Effect
+  descrip: Doesn't like large groups on the ground
+  sprite: {fileID: 3286163911610860551, guid: a1cad46b9a109ac43bc04b10d003312c, type: 3}
+  attacksFlying: 0
+  attacksLand: 1
+  moneyCost: 3c000000780000002c010000
+  woodCost: 
+  oreCost: 0a0000001400000028000000
+  populationCost: 000000000100000001000000
+  damage: 1e0000003c00000064000000
+  speed:
+  - 0.6
+  - 0.6
+  - 0.6
+  radius:
+  - 0.8
+  - 0.8
+  - 0.9
+  shotSpeed: []

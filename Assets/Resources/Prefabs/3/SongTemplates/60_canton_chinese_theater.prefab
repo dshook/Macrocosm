@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7956477528184506396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8225950160001496100}
+  - component: {fileID: 2206956356501021423}
+  m_Layer: 5
+  m_Name: 7_canton_chinese_theater
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8225950160001496100
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7956477528184506396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2206956356501021423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7956477528184506396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e5c2ea034a188459803d2b6a455627, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicClip: {fileID: 8300000, guid: e879b112ef217f64cb7bc9879289c579, type: 3}
+  bpm: 109
+  templates:
+  - {fileID: 884194397494806853, guid: d8995865859bf1f44a62b774049a0f92, type: 3}
+  - {fileID: 6390698280574247150, guid: 08f17aa9864cb944ca9ce41f50a86f81, type: 3}
+  - {fileID: 4746274953412043272, guid: 3f507667b3f36024dbc4395b3f1968c8, type: 3}
+  - {fileID: 5509549249696911194, guid: f8dc81cc8ca41794aa6b2804129d13c4, type: 3}
+  - {fileID: 5901757672759961926, guid: c9be98e9aaabf3646aac622c0640f8dd, type: 3}
+  - {fileID: 5021506665138235431, guid: f976fd6d687570949a7291f28174f608, type: 3}
+  - {fileID: 5021506665138235431, guid: f976fd6d687570949a7291f28174f608, type: 3}
+  - {fileID: 4568842298810381505, guid: 4f21ed9537bcb2340a2631df7b94cbaa, type: 3}
+  - {fileID: 4568842298810381505, guid: 4f21ed9537bcb2340a2631df7b94cbaa, type: 3}
+  - {fileID: 3765339889362029697, guid: 09f51cebdd6a7164c9a2c8400e6e91b1, type: 3}
+  - {fileID: 3765339889362029697, guid: 09f51cebdd6a7164c9a2c8400e6e91b1, type: 3}
+  - {fileID: 8678206236277256065, guid: d0133b7be527f01419ff9f61ef03fe6c, type: 3}
+  - {fileID: 8678206236277256065, guid: d0133b7be527f01419ff9f61ef03fe6c, type: 3}
+  - {fileID: 8136167863276832849, guid: e76535b3f0e00124eb57bc2fd92a91d7, type: 3}
+  - {fileID: 8136167863276832849, guid: e76535b3f0e00124eb57bc2fd92a91d7, type: 3}
+  - {fileID: 6390698280574247150, guid: 08f17aa9864cb944ca9ce41f50a86f81, type: 3}
+  - {fileID: 4746274953412043272, guid: 3f507667b3f36024dbc4395b3f1968c8, type: 3}
+  - {fileID: 5509549249696911194, guid: f8dc81cc8ca41794aa6b2804129d13c4, type: 3}
+  - {fileID: 5901757672759961926, guid: c9be98e9aaabf3646aac622c0640f8dd, type: 3}
+  - {fileID: 5021506665138235431, guid: f976fd6d687570949a7291f28174f608, type: 3}
+  - {fileID: 5021506665138235431, guid: f976fd6d687570949a7291f28174f608, type: 3}
+  - {fileID: 4568842298810381505, guid: 4f21ed9537bcb2340a2631df7b94cbaa, type: 3}
+  - {fileID: 4568842298810381505, guid: 4f21ed9537bcb2340a2631df7b94cbaa, type: 3}
+  - {fileID: 3765339889362029697, guid: 09f51cebdd6a7164c9a2c8400e6e91b1, type: 3}
+  - {fileID: 8678206236277256065, guid: d0133b7be527f01419ff9f61ef03fe6c, type: 3}
+  - {fileID: 8136167863276832849, guid: e76535b3f0e00124eb57bc2fd92a91d7, type: 3}
+  - {fileID: 2589290161647192998, guid: c84a61e3bd8bc3a4da164f4419e2bac1, type: 3}
+  - {fileID: 6375269868311060455, guid: 96bd77bb01ed0784fb530e072de8f219, type: 3}
+  - {fileID: 8142863723017078870, guid: 8091318767b4fa04cb2c39252013eed4, type: 3}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-252,-316)">
+        <g id="town_flag" transform="matrix(1,0,0,1,-2908.08,68.6822)">
+            <rect x="3161" y="248" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(0.878828,0,0,0.878828,399.656,31.1525)">
+                <path d="M3181.16,296.042L3181.16,274.429L3181.16,336.651" style="fill:none;stroke:black;stroke-width:4.55px;"/>
+            </g>
+            <g transform="matrix(1.24875,0,0,1.24875,-794.862,-67.5825)">
+                <path d="M3195.35,271.516C3195.35,271.516 3199.88,270.351 3202.97,269.557C3204.73,269.102 3206.61,269.524 3208.02,270.689C3209.5,271.922 3211.38,273.481 3212.51,274.416C3213.21,275.001 3214.06,275.386 3214.96,275.53C3216.43,275.759 3218.81,275.976 3221.22,275.527C3221.74,275.403 3222.28,275.563 3222.65,275.947C3223.02,276.331 3223.16,276.881 3223.01,277.393C3221.61,280.621 3218.76,284.18 3216.49,286.718C3214.63,288.784 3211.6,289.332 3209.14,288.05C3209.14,288.051 3209.14,288.051 3209.14,288.051C3206.91,286.894 3204.21,287.132 3202.22,288.661C3199.26,290.938 3195.35,293.942 3195.35,293.942L3195.35,271.523" style="fill:white;stroke:black;stroke-width:1.97px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2908.08,0)">
+                <path d="M299.851,291.629C300.692,283.711 302.631,278.124 299.929,269.224C302.454,270.273 307.903,274.184 310.657,276.234C301.602,280.49 308.438,288.16 299.851,291.629Z" style="fill-opacity:0.05;"/>
+            </g>
+        </g>
+    </g>
+</svg>

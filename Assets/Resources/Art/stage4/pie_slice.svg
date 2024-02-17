@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1648,-1)">
+        <g id="pie_slice" transform="matrix(1,0,0,1,1197.89,-451.5)">
+            <rect x="450.405" y="453" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(5.8433,0,0,5.8433,-2557.89,-2327.09)">
+                <path d="M530.852,488.065C530.852,485.443 530.162,482.868 528.851,480.597L515.917,488.065L530.852,488.065Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

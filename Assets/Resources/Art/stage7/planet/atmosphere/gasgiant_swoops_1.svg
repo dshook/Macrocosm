@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1500,-2312)">
+        <g id="gasgiant_swoops_1" transform="matrix(2.49977,0,0,1,-2250.06,-0.47803)">
+            <rect x="1500.16" y="2312.48" width="100.009" height="100.009" style="fill:none;"/>
+            <g transform="matrix(0.17899,0,0,0.447434,1600.17,2351.55)">
+                <path d="M0,-8.5C-40.331,-9.096 -119.276,-76.841 -251.743,-76.841C-296.942,-76.841 -358.974,-61.872 -405.627,-32.85C-452.265,-3.837 -558.742,-8.5 -558.742,-8.5L-558.742,64.032C-558.742,64.032 -495.568,68.341 -427.88,14.351C-363.375,-37.102 -316.382,-51.403 -275.032,-51.403C-107.837,-51.403 -93.885,64.032 0,64.032" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

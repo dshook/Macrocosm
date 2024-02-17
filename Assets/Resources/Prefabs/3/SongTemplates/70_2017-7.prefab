@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3926458574716829083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3044135909997691299}
+  - component: {fileID: 5095308888527345512}
+  m_Layer: 5
+  m_Name: Song1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3044135909997691299
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3926458574716829083}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &5095308888527345512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3926458574716829083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e5c2ea034a188459803d2b6a455627, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicClip: {fileID: 8300000, guid: 22a543e2ea50fac4eb2e4d60342ccffb, type: 3}
+  bpm: 105
+  songBeats: 0
+  templates:
+  - {fileID: 9199021635499047648, guid: 623c613a66e15fe4889478360fd06240, type: 3}
+  - {fileID: 9199021635499047648, guid: 623c613a66e15fe4889478360fd06240, type: 3}
+  - {fileID: 292639713658584819, guid: 38c02fd06e5a6264ba1f3611926422b4, type: 3}
+  - {fileID: 292639713658584819, guid: 38c02fd06e5a6264ba1f3611926422b4, type: 3}
+  - {fileID: 9199021635499047648, guid: 623c613a66e15fe4889478360fd06240, type: 3}
+  - {fileID: 9199021635499047648, guid: 623c613a66e15fe4889478360fd06240, type: 3}
+  - {fileID: 292639713658584819, guid: 38c02fd06e5a6264ba1f3611926422b4, type: 3}
+  - {fileID: 292639713658584819, guid: 38c02fd06e5a6264ba1f3611926422b4, type: 3}
+  - {fileID: 7055701311479166257, guid: 3429e860e9b39984a8fe59290e716997, type: 3}
+  - {fileID: 7055701311479166257, guid: 3429e860e9b39984a8fe59290e716997, type: 3}
+  - {fileID: 1067807871765814856, guid: ebc1d255e60747444a4eeafd23756cc1, type: 3}
+  - {fileID: 1067807871765814856, guid: ebc1d255e60747444a4eeafd23756cc1, type: 3}
+  - {fileID: 7055701311479166257, guid: 3429e860e9b39984a8fe59290e716997, type: 3}
+  - {fileID: 7055701311479166257, guid: 3429e860e9b39984a8fe59290e716997, type: 3}
+  - {fileID: 1067807871765814856, guid: ebc1d255e60747444a4eeafd23756cc1, type: 3}
+  - {fileID: 1067807871765814856, guid: ebc1d255e60747444a4eeafd23756cc1, type: 3}
+  - {fileID: 4217378162241270418, guid: e8b44d4dcab3b9d44b3bdcee1c2ab720, type: 3}

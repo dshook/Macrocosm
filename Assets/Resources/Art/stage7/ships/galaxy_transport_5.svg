@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2712.53,-544.921)">
+        <g id="galaxy_transport_5" transform="matrix(1,0,0,1,-1412.47,413.921)">
+            <rect x="4125" y="131" width="100" height="100" style="fill:none;"/>
+            <g transform="matrix(0.90236,0,0,1.0166,407.284,-14.8389)">
+                <path d="M4204.94,158.881C4204.94,150.514 4197.29,143.722 4187.86,143.722C4187.86,143.722 4162.94,143.722 4162.94,143.722C4153.52,143.722 4145.86,150.514 4145.86,158.881L4145.86,212.615C4145.86,220.981 4153.52,227.773 4162.94,227.773C4162.94,227.773 4187.86,227.773 4187.86,227.773C4197.29,227.773 4204.94,220.981 4204.94,212.615C4204.94,212.615 4204.94,158.881 4204.94,158.881ZM4200.33,158.881C4200.33,152.776 4194.74,147.819 4187.86,147.819L4162.94,147.819C4156.06,147.819 4150.48,152.776 4150.48,158.881L4150.48,212.615C4150.48,218.72 4156.06,223.676 4162.94,223.676L4187.86,223.676C4194.74,223.676 4200.33,218.72 4200.33,212.615L4200.33,158.881Z" style="fill:rgb(42,42,42);"/>
+            </g>
+        </g>
+        <g id="Layer3">
+        </g>
+    </g>
+</svg>

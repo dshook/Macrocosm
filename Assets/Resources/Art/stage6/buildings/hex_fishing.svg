@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g transform="matrix(1,0,0,1,-252,-567)">
+        <g id="hex_fishing" transform="matrix(1,0,0,1,-3099.49,62.6822)">
+            <rect x="3351.73" y="505" width="100.045" height="100.045" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,0.733741,0)">
+                <path d="M3369.12,575.713L3409.87,590.217L3443.1,566.349L3424.93,536.791L3385.82,535.505L3362.69,555.023L3369.12,575.713Z" style="fill:none;stroke:rgb(73,73,73);stroke-width:0.83px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0.733741,0)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-5.69206,-20.7462)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,17.4408,-40.2072)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,56.5464,-38.922)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,74.7223,-9.36331)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,41.4917,14.504)">
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:none;stroke:white;stroke-width:1.5px;"/>
+                <circle cx="3369.12" cy="575.713" r="2.61" style="fill:white;"/>
+            </g>
+            <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,6825.41,1055.42)">
+                <path d="M3407.98,529.178C3409.22,528.349 3409.87,527.409 3409.87,526.452C3409.87,524.971 3408.31,523.554 3405.54,522.527L3385.9,522.527C3383.14,523.554 3381.57,524.971 3381.57,526.452C3381.57,527.409 3382.23,528.349 3383.47,529.178L3407.98,529.178Z" style="fill:rgb(185,104,50);"/>
+            </g>
+        </g>
+    </g>
+</svg>
