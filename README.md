@@ -1,10 +1,10 @@
 # Macrocosm
 
-This is the game Macrocosm that I worked on for about 4 years.  For all the details, check out https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/
+This is the game Macrocosm that I worked on for about 4 years.  For all the details, check out https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/ and https://dillonshook.com/planned-app-solescence/ for why it's no longer on the app stores.
 
 There are some things scraped from the repo to not publish assets I paid for or baked in credentials.  Unfortunately this means I can't post the full git history since it's such a pain in the butt to scrape them from the history.
 
-The game was last built with Unity 2020.3.40f1 . Good luck if you try to upgrade it
+The game was last built with Unity 2019.4.x . Good luck if you try to upgrade it
 
 Hope you have fun exploring and might find something useful!
 
